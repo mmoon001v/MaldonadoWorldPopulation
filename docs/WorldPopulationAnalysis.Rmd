@@ -1,0 +1,11 @@
+---
+title: "Population Analysis"
+author: "Myleen Maldonado"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r}
+library(MaldonadoWorldPopulation)
+#CountryPopulation('United States of America')
+```
